@@ -1,15 +1,33 @@
-## olá sou Gustavo-mouraDev
+# 👋 Bem-vindo ao meu perfil!
 
-- ⚡ atualmente sou estudante so curso Análise e desenvolvimento de sistemas
-- ⚡ Meu foco é se tornar desenvolvedor back-end
-- ⚡ estou estudando python e banco de dados
+![Banner](https://seu-link-da-imagem-aqui.com/banner.png)
 
-  <div>
+## Sobre mim
+Olá! Eu sou **Gustavo Moura**, um desenvolvedor apaixonado por tecnologia e inovação. 🚀
 
-<a href="https://github.com/Gustavo-mouraDev">
+- 🌱 Atualmente aprendendo: React, Node.js e Python.
+- 💼 Aberto a colaborações em projetos de código aberto.
+- 🎯 Objetivo: Criar soluções que impactem positivamente o mundo.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username-Gustavo-mouraDev&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-Gustavo-mouraDev&layout-compact&langs_count=16&theme-dracula"/>
+## 🛠️ Tecnologias e Ferramentas
+![Ferramentas](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,vscode&theme=light)
 
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-MouraDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-MouraDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
+
+## 🌐 Vamos nos conectar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://seu-portfolio.com)
+
+---
+
+Obrigado por visitar meu perfil! 😊
