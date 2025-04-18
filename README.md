@@ -1,16 +1,15 @@
-## Hi there 👋
+## olá sou Gustavo-mouraDev
 
-<!--
-**Gustavo-mouraDev/Gustavo-mouraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ atualmente sou estudante so curso Análise e desenvolvimento de sistemas
+- ⚡ Meu foco é se tornar desenvolvedor back-end
+- ⚡ estou estudando python e banco de dados
 
-Here are some ideas to get you started:
+  <div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://beacons.ai/rafaballerini">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username-Gustavo-mouraDev&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-Gustavo-mouraDev&layout-compact&langs_count=16&theme-dracula"/>
+
+</div>
