@@ -1,33 +1,46 @@
-# 👋 Bem-vindo ao meu perfil!
-
-![Banner](https://seu-link-da-imagem-aqui.com/banner.png)
+# 👋Olá bem-vindo ao meu perfil Gustavo-mouraDev
 
 ## Sobre mim
-Olá! Eu sou **Gustavo Moura**, um desenvolvedor apaixonado por tecnologia e inovação. 🚀
+Eu sou Gustavo Moura, apaixonado por desenvolvimento e tecnologia, atualmente focado em me desenvolver no **back-end**. Este é o espaço onde compartilho meus projetos, ideias e aprendizados. 🚀
 
-- 🌱 Atualmente aprendendo: React, Node.js e Python.
-- 💼 Aberto a colaborações em projetos de código aberto.
-- 🎯 Objetivo: Criar soluções que impactem positivamente o mundo.
+## O objetivo deste repositório
+Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao mundo um pouco da minha trajetória no mundo do código. Aqui você encontrará:
+- 🌟 Projetos que refletem minha paixão por programação.
+- 📚 Estudos e experimentos para me aprimorar cada vez mais.
+- 🔗 Links úteis para conectar com meu trabalho.
 
----
+## 🛠️ Ferramentas e Tecnologias
+Aqui estão algumas das tecnologias que utilizo:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
-## 🛠️ Tecnologias e Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,vscode&theme=light)
-
----
-
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas do meu GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-MouraDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-MouraDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-mouraDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-mouraDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
-
 ## 🌐 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://seu-portfolio.com)
+<p align="left">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+Obrigado por visitar meu repositório! 😊
