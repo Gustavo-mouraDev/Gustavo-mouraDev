@@ -48,6 +48,11 @@ Aqui estão algumas das tecnologias que utilizo:
         <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
       </a>
     </td>
+    <td>
+      <a href="https://hub.docker.com/u/gustavomouradevbr" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      </a>
+    </td>
   </tr>
 </table>
 
