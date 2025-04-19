@@ -29,7 +29,7 @@ Aqui estão algumas das tecnologias que utilizo:
 <table align="center">
   <tr>
     <td>
-      <a href="www.linkedin.com/in/gustavo-mouradev" target="_blank">
+      <a href="https://www.linkedin.com/in/gustavo-mouradev" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
@@ -39,7 +39,7 @@ Aqui estão algumas das tecnologias que utilizo:
       </a>
     </td>
     <td>
-      <a href="Gustavo:gustavoomoura10@gmail.com" target="_blank">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavoomoura10@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
     </td>
@@ -50,5 +50,7 @@ Aqui estão algumas das tecnologias que utilizo:
     </td>
   </tr>
 </table>
+
+Obrigado por visitar meu repositório! 😊
 
 Obrigado por visitar meu repositório! 😊
