@@ -44,7 +44,7 @@ Aqui estão algumas das tecnologias que utilizo:
       </a>
     </td>
     <td>
-      <a href="https://seu-portfolio.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://gustavomouradevbr.netlify.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
       </a>
     </td>
