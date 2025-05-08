@@ -1,29 +1,57 @@
-# 👋Olá bem-vindo ao meu perfil Gustavo-mouraDev
+<h1 align="center">Gustavo Moura 👨‍💻</h1>
 
-## Sobre mim
-Eu sou Gustavo Moura, apaixonado por desenvolvimento e tecnologia, atualmente focado em me desenvolver no **back-end**. Este é o espaço onde compartilho meus projetos, ideias e aprendizados. 🚀
-
-## O objetivo deste repositório
-Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao mundo um pouco da minha trajetória no mundo do código. Aqui você encontrará:
-- 🌟 Projetos que refletem minha paixão por programação.
-- 📚 Estudos e experimentos para me aprimorar cada vez mais.
-- 🔗 Links úteis para conectar com meu trabalho.
-
-## 🛠️ Ferramentas e Tecnologias
-Aqui estão algumas das tecnologias que utilizo:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<p align="center">
+  <strong>Desenvolvedor apaixonado por tecnologia, focado em back-end e sempre buscando evoluir.</strong> 🚀
 </p>
+
+---
+
+## ✨ Sobre mim
+
+Olá! Eu sou o **Gustavo Moura** e este é o espaço onde compartilho meus projetos, ideias e aprendizados no universo do desenvolvimento. Atualmente, estou me especializando no **back-end**, mas também tenho interesse por outras áreas da tecnologia.
+
+---
+
+## 🎯 Objetivo deste repositório
+
+Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao mundo um pouco da minha trajetória no mundo do código. Aqui você encontrará:
+
+- 🌟 Projetos que refletem minha paixão por programação  
+- 📚 Estudos e experimentos que venho realizando  
+- 🔗 Links úteis para se conectar comigo
+
+---
+## 🛠️ Ferramentas e Tecnologias
+
+### 💻 Linguagens
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+
+### 🗄️ Banco de Dados
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🔄 Versionamento
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+### 🖥️ IDEs
+- ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+- ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black)  
+
+### 🎨 Ferramentas de Design
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+
+### 🌐 Servidor Local
+- ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
+---
 
 ## 📈 Estatísticas do meu GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-mouraDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-mouraDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
 
 ## 🌐 Vamos nos conectar!
 <table align="center">
@@ -56,4 +84,6 @@ Aqui estão algumas das tecnologias que utilizo:
   </tr>
 </table>
 
-Obrigado por visitar meu repositório! 😊
+---
+
+<p align="center">🙌 Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir. 😄</p>
