@@ -41,6 +41,7 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ### 🎨 Ferramentas de Design:
@@ -100,3 +101,4 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
 ---
 
 <p align="center">🙌 Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir. 😄</p>
+
