@@ -33,7 +33,6 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
 ### 📦 Databases:
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/brModelo-003B57?style=for-the-badge&logo=data&logoColor=white"/>
 </p>
 
 ### 🛠️ Ferramentas & IDEs:
@@ -42,6 +41,7 @@ Este repositório foi criado para personalizar meu perfil no GitHub e mostrar ao
   <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+   <img src="https://img.shields.io/badge/brModelo-003B57?style=for-the-badge&logo=data&logoColor=white"/>
 </p>
 
 ### 🎨 Ferramentas de Design:
